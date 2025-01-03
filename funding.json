@@ -39,7 +39,7 @@
         "guid": "Bank",
         "type": "bank",
         "address": {
-          "Account": "0115665812"
+          "account": "0115665812"
         },
         "description": "Guaranty Trust Bank Nigeria"
       }
